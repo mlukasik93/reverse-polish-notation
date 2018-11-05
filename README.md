@@ -1,4 +1,4 @@
-#Reverse Polish Notation
+# Reverse Polish Notation
 Your job is to create a calculator which evaluates expressions in Reverse Polish notation.
 For example expression 5 1 2 + 4 * + 3 - (which is equivalent to 5 + ((1 + 2) * 4) - 3 in normal notation) should evaluate to 14.
 For your convenience, the input is formatted such that a space is provided between every token.
@@ -10,7 +10,7 @@ _Please **uphold contract** for this Interface_ as I will provide my own test fo
 
 This time you need to write your own tests
 
-##How to start
+## How to start
 1. Write your own test, use AssertJ 
     1. Read how to use AssertJ - http://joel-costigliola.github.io/assertj/
     2. Add AssertJ library to your project
